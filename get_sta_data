@@ -1,0 +1,15 @@
+## define a function to download the statistical data about land use and return it as an dict
+
+import urllib
+import xlrd
+import xlwt
+def get_sta_data(city,index_name):
+    """
+    city: the string name of searching target
+    index_name: the list of searching indexes"""
+    dict = {}
+    
+    
+    
+    
+    return dict
